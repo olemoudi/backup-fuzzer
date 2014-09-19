@@ -5,13 +5,13 @@ File Backup Fuzzer is a small script to generate a fuzz list of potential backup
 
 Examples: 
 
-wp-config.php~
-.wp-config.php.swp
-wp-config.php.tgz
-wp-config.php.bak
-wp-config.php_20141705
-wp-config.txt
-...
+* wp-config.php~
+* .wp-config.php.swp
+* wp-config.php.tgz
+* wp-config.php.bak
+* wp-config.php_20141705
+* wp-config.txt
+* ...
 
 ```
 Examples of usage showing the number of variations generated:
